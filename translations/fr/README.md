@@ -38,6 +38,8 @@ Les textes de ce dépôt sont sous licence [Creative Commons Attribution 4.0 Int
 
 Le reste du dépôt (conformité, gouvernance, contribution) est en anglais : voir le [README principal](../../README.md).
 
+DOI : [10.5281/zenodo.24351682](https://doi.org/10.5281/zenodo.24351682) (toutes versions), [10.5281/zenodo.24351683](https://doi.org/10.5281/zenodo.24351683) (version 0.1).
+
 ## Contact
 
 contact@dekrow.com

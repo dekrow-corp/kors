@@ -1,5 +1,7 @@
 # KORS
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24351682.svg)](https://doi.org/10.5281/zenodo.24351682)
+
 **Kernel for Operations and Resources System.** An architecture concept for production software. Not a technology, not a product.
 
 The UNS answers "how do I bring my data together". KORS answers "how do I build production tools that never need to be integrated with one another".
@@ -51,7 +53,12 @@ The texts in this repository are © 2026 Sean Lamet and the KORS contributors, l
 
 > KORS, Kernel for Operations and Resources System. Sean Lamet / Dekrow, 2026. https://github.com/dekrow-corp/kors, CC BY 4.0.
 
-To cite a precise version, use [CITATION.cff](CITATION.cff) or the DOI of the corresponding release.
+Each release is archived on Zenodo with a DOI:
+
+- All versions: [10.5281/zenodo.24351682](https://doi.org/10.5281/zenodo.24351682)
+- Version 0.1: [10.5281/zenodo.24351683](https://doi.org/10.5281/zenodo.24351683)
+
+To cite a precise version, use its DOI or [CITATION.cff](CITATION.cff).
 
 What the license covers: the text. The ideas described here are free for anyone to implement, with no permission, fee or notice required.
 

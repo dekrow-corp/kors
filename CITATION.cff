@@ -17,6 +17,14 @@ contact:
   - name: Dekrow
     email: contact@dekrow.com
     website: "https://dekrow.com"
+doi: 10.5281/zenodo.24351682
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24351682
+    description: "All versions"
+  - type: doi
+    value: 10.5281/zenodo.24351683
+    description: "Version 0.1"
 version: "0.1"
 date-released: 2026-11-18
 license: CC-BY-4.0
@@ -43,5 +51,6 @@ preferred-citation:
   version: "0.1"
   year: 2026
   month: 11
+  doi: 10.5281/zenodo.24351683
   url: "https://github.com/dekrow-corp/kors"
   license: CC-BY-4.0
