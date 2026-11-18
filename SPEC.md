@@ -85,7 +85,7 @@ Note: C1.4 applies between services. An adapter (section 5) may read or write fi
 - **C5.2** The customer MUST be able to export all of its data in a documented format, without intervention from the vendor.
 - **C5.3** A documented access API MUST exist. It SHOULD follow an open standard where one covers the need (for example i3X for access to contextualized data).
 - **C5.4** The system MUST be hostable on an infrastructure chosen by the customer.
-- **C5.5** The export of C5.2 MUST remain available to the customer until the end of the contractual relationship, including after notice of termination has been given.
+- **C5.5** The end of the contractual relationship, whatever its cause, MUST NOT deprive the customer of its data. The export of C5.2 MUST remain available after the contract has ended: for a documented period when the vendor hosts the system, and without time limit when the customer hosts it.
 
 ## 5. The boundary
 
@@ -129,7 +129,7 @@ A template for conformance statements is provided in [CONFORMANCE.md](CONFORMANC
 | C4 | Does adding a service require modifying the others? | A service added by subscription only |
 | C5 | Can the customer export everything alone? | Documented full export, executable without the vendor |
 | C5 | Does the customer choose the hosting? | Documented installation on a third-party infrastructure |
-| C5 | What happens to the data when the customer leaves? | Contract terms and export procedure valid until the end of the relationship |
+| C5 | What happens to the data when the customer leaves? | Contract terms and export procedure that remain valid after the contract has ended, with the documented period when the vendor hosts |
 
 ## 9. Examples
 

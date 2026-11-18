@@ -86,7 +86,7 @@ Note : C1.4 s'applique entre services. Un adaptateur (section 5) peut lire ou é
 - **C5.2** Le client DOIT pouvoir exporter l'intégralité de ses données dans un format documenté, sans intervention de l'éditeur.
 - **C5.3** Une API d'accès documentée DOIT exister. Elle DEVRAIT suivre un standard ouvert quand il couvre le besoin (par exemple i3X pour l'accès aux données contextualisées).
 - **C5.4** Le système DOIT pouvoir être hébergé sur une infrastructure choisie par le client.
-- **C5.5** L'export de C5.2 DOIT rester accessible au client jusqu'à la fin de la relation contractuelle, y compris après la notification de résiliation.
+- **C5.5** La fin de la relation contractuelle, quelle qu'en soit la cause, NE DOIT PAS priver le client de ses données. L'export de C5.2 DOIT rester accessible après la fin du contrat : pendant une période documentée quand l'éditeur héberge le système, et sans limite de durée quand le client l'héberge.
 
 ## 5. La frontière
 
@@ -130,7 +130,7 @@ Un modèle de déclaration de conformité se trouve dans [CONFORMANCE.md](../../
 | C4 | Ajouter un service oblige-t-il à modifier les autres ? | Ajout d'un service par simple abonnement |
 | C5 | Le client peut-il tout exporter seul ? | Export complet documenté, exécutable sans l'éditeur |
 | C5 | Le client choisit-il l'hébergement ? | Installation documentée sur une infrastructure tierce |
-| C5 | Que deviennent les données quand le client part ? | Clauses contractuelles et procédure d'export valables jusqu'à la fin de la relation |
+| C5 | Que deviennent les données quand le client part ? | Clauses contractuelles et procédure d'export qui restent valables après la fin du contrat, avec la période documentée quand l'éditeur héberge |
 
 ## 9. Exemples
 
