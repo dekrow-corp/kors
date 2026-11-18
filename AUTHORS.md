@@ -4,7 +4,7 @@ Copyright in the texts of this repository belongs to their authors, who license 
 
 ## Original author
 
-- Sean Lamet: conception of the KORS concept, its name and its five criteria; author of version 0.1.
+- Sean Lamet ([ORCID 0009-0001-7993-4310](https://orcid.org/0009-0001-7993-4310)): conception of the KORS concept, its name and its five criteria; author of version 0.1.
 
 ## Maintainers
 

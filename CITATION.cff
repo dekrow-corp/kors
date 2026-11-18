@@ -11,6 +11,7 @@ authors:
   - family-names: Lamet
     given-names: Sean
     affiliation: Dekrow
+    orcid: "https://orcid.org/0009-0001-7993-4310"
     website: "https://dekrow.com"
 contact:
   - name: Dekrow
@@ -36,6 +37,7 @@ preferred-citation:
     - family-names: Lamet
       given-names: Sean
       affiliation: Dekrow
+      orcid: "https://orcid.org/0009-0001-7993-4310"
   institution:
     name: Dekrow
   version: "0.1"
