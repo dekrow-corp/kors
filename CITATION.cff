@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you reuse or cite KORS, please credit its origin as follows."
+title: "KORS, Kernel for Operations and Resources System: Specification"
+abstract: >-
+  KORS names an architecture property of production management applications
+  (MES, QMS, CMMS, DMS, PLM and other ISA-95 Level 3 applications). A system is
+  KORS if it satisfies five criteria: event-based communication, a common
+  vocabulary at the boundaries, autonomy of each service, modular adoption and
+  open data.
+authors:
+  - family-names: Lamet
+    given-names: Sean
+    affiliation: Dekrow
+    website: "https://dekrow.com"
+contact:
+  - name: Dekrow
+    email: contact@dekrow.com
+    website: "https://dekrow.com"
+version: "0.1"
+date-released: 2026-11-18
+license: CC-BY-4.0
+url: "https://github.com/dekrow-corp/kors"
+repository-code: "https://github.com/dekrow-corp/kors"
+keywords:
+  - industry 4.0
+  - software architecture
+  - manufacturing operations management
+  - ISA-95
+  - MES
+  - event-driven architecture
+  - unified namespace
+preferred-citation:
+  type: report
+  title: "KORS, Kernel for Operations and Resources System: Specification"
+  authors:
+    - family-names: Lamet
+      given-names: Sean
+      affiliation: Dekrow
+  institution:
+    name: Dekrow
+  version: "0.1"
+  year: 2026
+  month: 11
+  url: "https://github.com/dekrow-corp/kors"
+  license: CC-BY-4.0

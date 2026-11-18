@@ -1,0 +1,23 @@
+{
+  "title": "KORS, Kernel for Operations and Resources System: Specification",
+  "description": "KORS names an architecture property of production management applications (MES, QMS, CMMS, DMS, PLM and other ISA-95 Level 3 applications). A system is KORS if it satisfies five criteria: event-based communication, a common vocabulary at the boundaries, autonomy of each service, modular adoption and open data. This record archives the specification, its conformance rules and its governance.",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "creators": [
+    {
+      "name": "Lamet, Sean",
+      "affiliation": "Dekrow"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "industry 4.0",
+    "software architecture",
+    "manufacturing operations management",
+    "ISA-95",
+    "MES",
+    "event-driven architecture",
+    "unified namespace"
+  ]
+}
